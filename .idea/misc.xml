@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Studio_Projects/GIT_PROJECTS/Marvel-App-trunk/app/src/main/res/drawable/bg_button_details.xml" value="0.24" />
+        <entry key="..\:/Android_Studio_Projects/GIT_PROJECTS/Marvel-App-trunk/app/src/main/res/layout/activity_marvel_youtube.xml" value="0.25" />
+        <entry key="..\:/Android_Studio_Projects/GIT_PROJECTS/Marvel-App-trunk/app/src/main/res/layout/activity_navigation.xml" value="0.26510416666666664" />
+        <entry key="..\:/Android_Studio_Projects/GIT_PROJECTS/Marvel-App-trunk/app/src/main/res/layout/activity_splash_screen.xml" value="0.26510416666666664" />
+        <entry key="..\:/Android_Studio_Projects/GIT_PROJECTS/Marvel-App-trunk/app/src/main/res/layout/activity_youtube_player.xml" value="0.22927927927927927" />
+        <entry key="..\:/Android_Studio_Projects/GIT_PROJECTS/Marvel-App-trunk/app/src/main/res/layout/divisor.xml" value="0.17314814814814813" />
+        <entry key="..\:/Android_Studio_Projects/GIT_PROJECTS/Marvel-App-trunk/app/src/main/res/layout/fragment_all_characters.xml" value="0.22927927927927927" />
+        <entry key="..\:/Android_Studio_Projects/GIT_PROJECTS/Marvel-App-trunk/app/src/main/res/layout/fragment_character_details.xml" value="0.16" />
+        <entry key="..\:/Android_Studio_Projects/GIT_PROJECTS/Marvel-App-trunk/app/src/main/res/layout/fragment_comics.xml" value="0.22927927927927927" />
+        <entry key="..\:/Android_Studio_Projects/GIT_PROJECTS/Marvel-App-trunk/app/src/main/res/layout/item_character.xml" value="0.22927927927927927" />
+        <entry key="..\:/Android_Studio_Projects/GIT_PROJECTS/Marvel-App-trunk/app/src/main/res/layout/item_comic.xml" value="0.22927927927927927" />
+        <entry key="..\:/Android_Studio_Projects/GIT_PROJECTS/Marvel-App-trunk/app/src/main/res/layout/item_video.xml" value="0.22927927927927927" />
+        <entry key="..\:/Android_Studio_Projects/GIT_PROJECTS/Marvel-App-trunk/app/src/main/res/menu/marvel_brasil_menu.xml" value="0.22927927927927927" />
+        <entry key="..\:/Users/Lucas Cabral/AndroidStudioProjects/MarvelSuperHeroes/app/src/main/res/drawable/bg_button_details.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Lucas Cabral/AndroidStudioProjects/MarvelSuperHeroes/app/src/main/res/drawable/bg_image_comics.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Lucas Cabral/AndroidStudioProjects/MarvelSuperHeroes/app/src/main/res/layout/activity_marvel_youtube.xml" value="0.2037037037037037" />
+        <entry key="..\:/Users/Lucas Cabral/AndroidStudioProjects/MarvelSuperHeroes/app/src/main/res/layout/activity_navigation.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/Lucas Cabral/AndroidStudioProjects/MarvelSuperHeroes/app/src/main/res/layout/fragment_all_characters.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/Lucas Cabral/AndroidStudioProjects/MarvelSuperHeroes/app/src/main/res/layout/fragment_character_details.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/Lucas Cabral/AndroidStudioProjects/MarvelSuperHeroes/app/src/main/res/layout/fragment_character_details_scene_end.xml" value="0.2" />
+        <entry key="..\:/Users/Lucas Cabral/AndroidStudioProjects/MarvelSuperHeroes/app/src/main/res/layout/fragment_character_details_scene_start.xml" value="0.1" />
+        <entry key="..\:/Users/Lucas Cabral/AndroidStudioProjects/MarvelSuperHeroes/app/src/main/res/layout/fragment_comics.xml" value="0.2212962962962963" />
+        <entry key="..\:/Users/Lucas Cabral/AndroidStudioProjects/MarvelSuperHeroes/app/src/main/res/layout/item_character.xml" value="0.264" />
+        <entry key="..\:/Users/Lucas Cabral/AndroidStudioProjects/MarvelSuperHeroes/app/src/main/res/layout/item_comic.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
