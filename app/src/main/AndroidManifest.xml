@@ -7,7 +7,7 @@
 
 
     <application
-        android:name=".presenter.MarvelApp"
+        android:name="com.lucascabral.marvelsuperheroes.presenter.MarvelApp"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -21,7 +21,7 @@
             android:value="ca-app-pub-9319743027619704~3913863772"/>
 
         <activity
-            android:name=".presenter.NavigationActivity"
+            android:name="com.lucascabral.marvelsuperheroes.presenter.NavigationActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
